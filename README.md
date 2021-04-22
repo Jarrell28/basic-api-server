@@ -8,6 +8,10 @@
 
 [Production URL](https://jarrell-basic-api-server.herokuapp.com/)
 
+[Github Actions](https://github.com/Jarrell28/basic-api-server/actions)
+
+[Pull Requests]()
+
 ## Setup
 
 **.env**
