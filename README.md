@@ -10,7 +10,7 @@
 
 [Github Actions](https://github.com/Jarrell28/basic-api-server/actions)
 
-[Pull Requests]()
+[Pull Requests](https://github.com/Jarrell28/basic-api-server/pulls)
 
 ## Setup
 
